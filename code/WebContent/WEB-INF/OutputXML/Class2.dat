@@ -1,0 +1,5 @@
+className=Class2
+classVisibility=public
+attribute name=Attribute1 visibility=public type=int
+attribute name=Attribute2 visibility=public type=float
+operation name=Operation1 visibility=public returnType=int # 

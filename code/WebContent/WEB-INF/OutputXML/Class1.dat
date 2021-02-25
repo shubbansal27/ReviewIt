@@ -1,0 +1,7 @@
+className=Class1
+classVisibility=public
+attribute name=name visibility=public type=String
+attribute name=gender visibility=public type=String
+attribute name=contact number visibility=public type=int
+operation name=get_details visibility=public returnType=boolean # ParamName=n paramType=int,ParamName=m paramType=string
+operation name=display visibility=public returnType=String # 

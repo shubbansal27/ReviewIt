@@ -1,0 +1,24 @@
+className=Class5
+classVisibility=public
+attribute name=temp visibility=public type=float
+attribute name=atr1 visibility=public type=int
+attribute name=atr2 visibility=public type=float
+attribute name=atr3 visibility=public type=String
+attribute name=atr4 visibility=public type=float
+attribute name=atr5 visibility=public type=int
+attribute name=atr6 visibility=public type=float
+attribute name=Attribute7 visibility=public type=String
+attribute name=Attribute8 visibility=public type=boolean
+attribute name=Attribute9 visibility=public type=boolean
+attribute name=Attribute10 visibility=public type=int
+attribute name=Attribute11 visibility=public type=float
+attribute name=Attribute12 visibility=public type=String
+attribute name=Attribute13 visibility=public type=String
+attribute name=Attribute14 visibility=public type=double
+attribute name=Attribute15 visibility=public type=boolean
+attribute name=Attribute16 visibility=public type=long
+attribute name=Attribute17 visibility=public type=int
+attribute name=Attribute18 visibility=public type=boolean
+attribute name=Attribute19 visibility=public type=String
+attribute name=Attribute20 visibility=public type=String
+operation name=temp_function visibility=public returnType=int # 

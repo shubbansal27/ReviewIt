@@ -1,0 +1,20 @@
+className=Class4
+visibility=public
+attribute name=class4 type=String visibility=public 
+attribute name=Class2() type=new visibility=public 
+operation name=class4_Operation1 returnType=boolean visibility=public # 
+operation name=Operation1 returnType=void visibility=public # 
+operation name=Operation2 returnType=float visibility=public # paramName=a paramType=int ,paramName=b paramType=String 
+operation name=Operation3 returnType=int visibility=private # 
+operation name=Operation4 returnType=int visibility=public # paramName=m paramType=double ,paramName=n paramType=double 
+operation name=Operation5 returnType=void visibility=public # 
+operation name=Operation6 returnType=String visibility=public # paramName=s paramType=String 
+operation name=Operation7 returnType=double visibility=public # 
+operation name=Operation8 returnType=void visibility=public # paramName=s1 paramType=int 
+operation name=Operation9 returnType=int visibility=public # 
+operation name=Operation10 returnType=void visibility=public # 
+operation name=Operation11 returnType=void visibility=public # 
+operation name=Operation12 returnType=String visibility=public # 
+operation name=Operation13 returnType=Long visibility=public # 
+operation name=Operation15 returnType=boolean visibility=public # 
+operation name=Operation14 returnType=void visibility=public # 

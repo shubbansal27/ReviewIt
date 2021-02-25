@@ -1,0 +1,24 @@
+.divDashboardHeader {
+	border:1px #CCC solid;
+	padding:10px;	
+	overflow:auto;
+}
+
+.divDashboardHeader  #UserType { 
+	float:left;
+}
+
+.divDashboardHeader #Email { 
+	float:right;
+	margin-right:10px;
+ }
+ 
+ .divDashboardBody {
+ 	
+ 	border:1px #CCC solid;
+	padding:10;
+	height:450px;
+	overflow:auto;
+ }
+ 
+ 

@@ -1,0 +1,19 @@
+className=Class4
+classVisibility=public
+attribute name=class4 visibility=public type=String
+operation name=class4_Operation1 visibility=public returnType=boolean # 
+operation name=Operation1 visibility=public returnType=int # 
+operation name=Operation2 visibility=public returnType=float # ParamName=a paramType=int,ParamName=b paramType=String
+operation name=Operation3 visibility=public returnType=String # 
+operation name=Operation4 visibility=public returnType=void # ParamName=m paramType=double,ParamName=n paramType=double
+operation name=Operation5 visibility=public returnType=void # 
+operation name=Operation6 visibility=public returnType=String # ParamName=s paramType=String
+operation name=Operation7 visibility=public returnType=double # 
+operation name=Operation8 visibility=public returnType=void # ParamName=s1 paramType=int
+operation name=Operation9 visibility=public returnType=int # 
+operation name=Operation10 visibility=public returnType=void # 
+operation name=Operation11 visibility=public returnType=void # 
+operation name=Operation12 visibility=public returnType=String # 
+operation name=Operation13 visibility=public returnType=String # 
+operation name=Operation14 visibility=public returnType=void # 
+operation name=Operation15 visibility=public returnType=boolean # 

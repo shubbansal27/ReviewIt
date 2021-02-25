@@ -1,0 +1,25 @@
+className=Class5
+visibility=public
+attribute name=temp type=float visibility=public 
+attribute name=atr1 type=int visibility=public 
+attribute name=atr2 type=float visibility=public 
+attribute name=atr3 type=String visibility=public 
+attribute name=atr4 type=float visibility=public 
+attribute name=atr5 type=int visibility=public 
+attribute name=atr6 type=float visibility=public 
+attribute name=Attribute7 type=String visibility=public 
+attribute name=Attribute8 type=boolean visibility=public 
+attribute name=Attribute9 type=boolean visibility=public 
+attribute name=Attribute10 type=int visibility=public 
+attribute name=Attribute11 type=float visibility=public 
+attribute name=Attribute12 type=String visibility=public 
+attribute name=Attribute13 type=String visibility=public 
+attribute name=Attribute14 type=double visibility=public 
+attribute name=Attribute15 type=boolean visibility=public 
+attribute name=Attribute16 type=long visibility=public 
+attribute name=Attribute17 type=int visibility=public 
+attribute name=Attribute18 type=boolean visibility=public 
+attribute name=Attribute19 type=String visibility=public 
+attribute name=Attribute20 type=String visibility=public 
+attribute name=Class1() type=new visibility=public 
+operation name=temp_function returnType=int visibility=public # 

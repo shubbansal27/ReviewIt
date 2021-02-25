@@ -1,0 +1,5 @@
+className=Class3
+visibility=public
+attribute name=attr3 type=float visibility=public 
+attribute name=Class2() type=new visibility=public 
+operation name=Opr returnType=boolean visibility=public # paramName=a paramType=int ,paramName=b paramType=float 
